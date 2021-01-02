@@ -1,0 +1,17 @@
+{
+  "name": "code-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1",
+    "querystring": "^0.2.0"
+  }
+}
